@@ -22,6 +22,7 @@ object Project : Project({
     buildType(JavaScript_02Chrome)
     buildType(JavaScript_01FastTests)
     buildType(JavaScript_03Firefox)
+    buildType(JavaScript_02IE)
 
     template(JavaScript_Template)
 
