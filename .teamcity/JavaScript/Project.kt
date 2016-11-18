@@ -14,7 +14,7 @@ object Project : Project({
     extId = "JavaScript"
     parentId = "_Root"
     name = "JavaScript"
-
+    description = "My JS Project"
     vcsRoot(HttpsGithubComJeff18msJavascriptSettingsGit)
     vcsRoot(JavaScript_HttpsGithubComJeff18msTeamcityCourseCards)
 
