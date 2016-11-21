@@ -31,10 +31,5 @@ object JavaScript_Template : Template({
         }
     }
 
-    triggers {
-        vcs {
-            id = "vcsTrigger"
-            perCheckinTriggering = true
-        }
-    }
+
 })
